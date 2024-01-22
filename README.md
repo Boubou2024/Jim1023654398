@@ -1,4 +1,4 @@
-- 👋 Hi, I’m boubou@Jim1023654398, a boy coming from Canton, China.
+- 👋 Hi, I’m boubou@boubou, a boy coming from Canton, China.
 - 👀 I’m interested in film, photography, music and economy haha.
 - 🌱 I’m currently learning python programming, cloud computing, Java Spring Boot.
 - 💞️ I’m looking to explore on python coding, cloud compute, web3 ,crypto currency 
